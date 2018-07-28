@@ -1,0 +1,18 @@
+{
+  "name": "filler-text-generator",
+  "version": "1.0.0",
+  "description": "A simple javascript filler text generation libary. Supports both Lorem Ipsum (aka Lipsum) as well as random english words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Filler",
+    "Text",
+    "Lorem",
+    "Ipsum",
+    "Lipsum"
+  ],
+  "author": "Luke F",
+  "license": "MIT"
+}
