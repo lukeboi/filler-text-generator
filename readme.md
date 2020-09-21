@@ -1,3 +1,4 @@
+# 2020 Update: This project was a random idea I worked on for a while. Haven't touched it in years.
 
 A simple javascript filler text generation libary. Supports both Lorem Ipsum (aka Lipsum) as well as random english words.
 
